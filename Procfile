@@ -1,0 +1,1 @@
+bot: python main_wather_tg_bot.py
