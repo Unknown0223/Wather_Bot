@@ -1,1 +1,1 @@
-worker: python main_wather_tg_bot.py
+worker: python main_weather_tg_bot.py
